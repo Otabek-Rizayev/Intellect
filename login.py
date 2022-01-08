@@ -2,7 +2,6 @@ import pickle as p
 from getpass import getpass
 from rich import print
 
-
 class Registration():
     def __main__(self, login, password, password2, data_base, signup):
         self.login = login
